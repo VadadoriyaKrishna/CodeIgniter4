@@ -1,0 +1,293 @@
+CRITICAL - 2024-12-28 06:26:03 --> ErrorException: Undefined variable $page
+[Method: GET, Route: home]
+in APPPATH\Views\pages\home.php on line 8.
+ 1 APPPATH\Views\pages\home.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $page', 'C:\\wamp64\\www\\codeigniter4\\app\\Views\\pages\\home.php', 8)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\codeigniter4\\app\\Views\\pages\\home.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pages/home', [], true)
+ 5 APPPATH\Controllers\Pages.php(26): view('pages/home')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pages->view('home')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\wamp64\\www\\codeigniter4\\public\\index.php')
+CRITICAL - 2024-12-28 06:26:03 --> ErrorException: Undefined variable $page
+[Method: GET, Route: home]
+in APPPATH\Views\pages\home.php on line 8.
+ 1 APPPATH\Views\pages\home.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $page', 'C:\\wamp64\\www\\codeigniter4\\app\\Views\\pages\\home.php', 8)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\codeigniter4\\app\\Views\\pages\\home.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pages/home', [], true)
+ 5 APPPATH\Controllers\Pages.php(26): view('pages/home')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pages->view('home')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\wamp64\\www\\codeigniter4\\public\\index.php')
+CRITICAL - 2024-12-28 06:26:45 --> ErrorException: Undefined variable $page
+[Method: GET, Route: home]
+in APPPATH\Views\pages\home.php on line 8.
+ 1 APPPATH\Views\pages\home.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $page', 'C:\\wamp64\\www\\codeigniter4\\app\\Views\\pages\\home.php', 8)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\codeigniter4\\app\\Views\\pages\\home.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pages/home', [], true)
+ 5 APPPATH\Controllers\Pages.php(26): view('pages/home')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pages->view('home')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\wamp64\\www\\codeigniter4\\public\\index.php')
+CRITICAL - 2024-12-28 06:26:45 --> ErrorException: Undefined variable $page
+[Method: GET, Route: home]
+in APPPATH\Views\pages\home.php on line 8.
+ 1 APPPATH\Views\pages\home.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $page', 'C:\\wamp64\\www\\codeigniter4\\app\\Views\\pages\\home.php', 8)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\codeigniter4\\app\\Views\\pages\\home.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pages/home', [], true)
+ 5 APPPATH\Controllers\Pages.php(26): view('pages/home')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pages->view('home')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\wamp64\\www\\codeigniter4\\public\\index.php')
+CRITICAL - 2024-12-28 06:26:45 --> ErrorException: Undefined variable $page
+[Method: GET, Route: home]
+in APPPATH\Views\pages\home.php on line 8.
+ 1 APPPATH\Views\pages\home.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $page', 'C:\\wamp64\\www\\codeigniter4\\app\\Views\\pages\\home.php', 8)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\codeigniter4\\app\\Views\\pages\\home.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pages/home', [], true)
+ 5 APPPATH\Controllers\Pages.php(26): view('pages/home')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pages->view('home')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\wamp64\\www\\codeigniter4\\public\\index.php')
+CRITICAL - 2024-12-28 06:28:16 --> ErrorException: Undefined variable $page
+[Method: GET, Route: home]
+in APPPATH\Views\pages\home.php on line 8.
+ 1 APPPATH\Views\pages\home.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $page', 'C:\\wamp64\\www\\codeigniter4\\app\\Views\\pages\\home.php', 8)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\codeigniter4\\app\\Views\\pages\\home.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pages/home', [], true)
+ 5 APPPATH\Controllers\Pages.php(26): view('pages/home')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pages->view('home')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\wamp64\\www\\codeigniter4\\public\\index.php')
+CRITICAL - 2024-12-28 06:28:16 --> ErrorException: Undefined variable $page
+[Method: GET, Route: home]
+in APPPATH\Views\pages\home.php on line 8.
+ 1 APPPATH\Views\pages\home.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $page', 'C:\\wamp64\\www\\codeigniter4\\app\\Views\\pages\\home.php', 8)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\codeigniter4\\app\\Views\\pages\\home.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pages/home', [], true)
+ 5 APPPATH\Controllers\Pages.php(26): view('pages/home')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pages->view('home')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\wamp64\\www\\codeigniter4\\public\\index.php')
+CRITICAL - 2024-12-28 06:48:59 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "news/index.php"
+[Method: GET, Route: news]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('news/index.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('news/index', [], true)
+ 3 APPPATH\Controllers\News.php(24): view('news/index')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\News->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\News))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\wamp64\\www\\codeigniter4\\public\\index.php')
+CRITICAL - 2024-12-28 06:48:59 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "news/index.php"
+[Method: GET, Route: news]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('news/index.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('news/index', [], true)
+ 3 APPPATH\Controllers\News.php(24): view('news/index')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\News->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\News))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\wamp64\\www\\codeigniter4\\public\\index.php')
+CRITICAL - 2024-12-28 06:53:49 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "news/view.php"
+[Method: GET, Route: news/elvis-sighted]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('news/view.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('news/view', [], true)
+ 3 APPPATH\Controllers\News.php(43): view('news/view')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\News->show('elvis-sighted')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\News))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\wamp64\\www\\codeigniter4\\public\\index.php')
+CRITICAL - 2024-12-28 06:55:53 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "news/view.php"
+[Method: GET, Route: news/elvis-sighted]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('news/view.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('news/view', [], true)
+ 3 APPPATH\Controllers\News.php(43): view('news/view')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\News->show('elvis-sighted')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\News))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\wamp64\\www\\codeigniter4\\public\\index.php')
+CRITICAL - 2024-12-28 06:55:54 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "news/view.php"
+[Method: GET, Route: news/elvis-sighted]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('news/view.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('news/view', [], true)
+ 3 APPPATH\Controllers\News.php(43): view('news/view')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\News->show('elvis-sighted')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\News))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\wamp64\\www\\codeigniter4\\public\\index.php')
+CRITICAL - 2024-12-28 07:10:15 --> ErrorException: Type of Config\Filters::$methods must be array (as in class CodeIgniter\Config\Filters)
+[Method: GET, Route: news/new]
+in APPPATH\Config\Filters.php on line 16.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-12-28 07:10:29 --> ErrorException: Type of Config\Filters::$methods must be array (as in class CodeIgniter\Config\Filters)
+[Method: GET, Route: news/new]
+in APPPATH\Config\Filters.php on line 16.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-12-28 07:10:39 --> ErrorException: Type of Config\Filters::$methods must be array (as in class CodeIgniter\Config\Filters)
+[Method: GET, Route: news/new]
+in APPPATH\Config\Filters.php on line 16.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-12-28 07:10:53 --> ErrorException: Type of Config\Filters::$methods must be array (as in class CodeIgniter\Config\Filters)
+[Method: GET, Route: news/new]
+in APPPATH\Config\Filters.php on line 16.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-12-28 07:10:53 --> ErrorException: Type of Config\Filters::$methods must be array (as in class CodeIgniter\Config\Filters)
+[Method: GET, Route: news/new]
+in APPPATH\Config\Filters.php on line 16.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-12-28 07:10:54 --> ErrorException: Type of Config\Filters::$methods must be array (as in class CodeIgniter\Config\Filters)
+[Method: GET, Route: news/new]
+in APPPATH\Config\Filters.php on line 16.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-12-28 07:11:01 --> ErrorException: Type of Config\Filters::$methods must be array (as in class CodeIgniter\Config\Filters)
+[Method: GET, Route: news/new]
+in APPPATH\Config\Filters.php on line 16.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-12-28 07:11:02 --> ErrorException: Type of Config\Filters::$methods must be array (as in class CodeIgniter\Config\Filters)
+[Method: GET, Route: news/new]
+in APPPATH\Config\Filters.php on line 16.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-12-28 07:11:28 --> ErrorException: Type of Config\Filters::$methods must be array (as in class CodeIgniter\Config\Filters)
+[Method: GET, Route: news/new]
+in APPPATH\Config\Filters.php on line 16.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-12-28 07:11:28 --> ErrorException: Type of Config\Filters::$methods must be array (as in class CodeIgniter\Config\Filters)
+[Method: GET, Route: news/new]
+in APPPATH\Config\Filters.php on line 16.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-12-28 07:13:14 --> ErrorException: Type of Config\Filters::$methods must be array (as in class CodeIgniter\Config\Filters)
+[Method: GET, Route: news/new]
+in APPPATH\Config\Filters.php on line 16.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-12-28 07:13:14 --> ErrorException: Type of Config\Filters::$methods must be array (as in class CodeIgniter\Config\Filters)
+[Method: GET, Route: news/new]
+in APPPATH\Config\Filters.php on line 16.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-12-28 07:13:14 --> ErrorException: Type of Config\Filters::$methods must be array (as in class CodeIgniter\Config\Filters)
+[Method: GET, Route: news/new]
+in APPPATH\Config\Filters.php on line 16.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-12-28 07:13:32 --> ErrorException: Type of Config\Filters::$methods must be array (as in class CodeIgniter\Config\Filters)
+[Method: GET, Route: news/new]
+in APPPATH\Config\Filters.php on line 16.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-12-28 07:13:32 --> ErrorException: Type of Config\Filters::$methods must be array (as in class CodeIgniter\Config\Filters)
+[Method: GET, Route: news/new]
+in APPPATH\Config\Filters.php on line 16.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-12-28 07:13:41 --> ErrorException: Type of Config\Filters::$methods must be array (as in class CodeIgniter\Config\Filters)
+[Method: GET, Route: news/new]
+in APPPATH\Config\Filters.php on line 16.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-12-28 07:14:24 --> ErrorException: Type of Config\Filters::$methods must be array (as in class CodeIgniter\Config\Filters)
+[Method: GET, Route: news/]
+in APPPATH\Config\Filters.php on line 16.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-12-28 07:14:28 --> ErrorException: Type of Config\Filters::$methods must be array (as in class CodeIgniter\Config\Filters)
+[Method: GET, Route: news/]
+in APPPATH\Config\Filters.php on line 16.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-12-28 07:14:32 --> ErrorException: Type of Config\Filters::$methods must be array (as in class CodeIgniter\Config\Filters)
+[Method: GET, Route: news/]
+in APPPATH\Config\Filters.php on line 16.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-12-28 07:16:16 --> ErrorException: Type of Config\Filters::$methods must be array (as in class CodeIgniter\Config\Filters)
+[Method: GET, Route: news/]
+in APPPATH\Config\Filters.php on line 16.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-12-28 07:16:21 --> ErrorException: Type of Config\Filters::$methods must be array (as in class CodeIgniter\Config\Filters)
+[Method: GET, Route: news/]
+in APPPATH\Config\Filters.php on line 16.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+INFO - 2024-12-28 07:17:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-28 07:18:47 --> CSRF token verified.
+INFO - 2024-12-28 07:19:06 --> CSRF token verified.
+INFO - 2024-12-28 07:21:19 --> CSRF token verified.
+INFO - 2024-12-28 07:22:10 --> CSRF token verified.
+CRITICAL - 2024-12-28 07:22:10 --> CodeIgniter\Database\Exceptions\DataException: Allowed fields must be specified for model: "App\Models\NewsModel"
+[Method: POST, Route: news]
+in SYSTEMPATH\Model.php on line 824.
+ 1 SYSTEMPATH\Model.php(824): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\NewsModel')
+ 2 SYSTEMPATH\BaseModel.php(821): CodeIgniter\Model->doProtectFieldsForInsert([...])
+ 3 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], false)
+ 4 SYSTEMPATH\BaseModel.php(751): CodeIgniter\Model->insert([...], false)
+ 5 APPPATH\Controllers\News.php(73): CodeIgniter\BaseModel->save([...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\News->create()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\News))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\wamp64\\www\\codeigniter4\\public\\index.php')
+INFO - 2024-12-28 07:22:48 --> CSRF token verified.
+CRITICAL - 2024-12-28 07:22:48 --> CodeIgniter\Database\Exceptions\DataException: Allowed fields must be specified for model: "App\Models\NewsModel"
+[Method: POST, Route: news]
+in SYSTEMPATH\Model.php on line 824.
+ 1 SYSTEMPATH\Model.php(824): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\NewsModel')
+ 2 SYSTEMPATH\BaseModel.php(821): CodeIgniter\Model->doProtectFieldsForInsert([...])
+ 3 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], false)
+ 4 SYSTEMPATH\BaseModel.php(751): CodeIgniter\Model->insert([...], false)
+ 5 APPPATH\Controllers\News.php(73): CodeIgniter\BaseModel->save([...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\News->create()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\News))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\wamp64\\www\\codeigniter4\\public\\index.php')
+INFO - 2024-12-28 07:23:41 --> CSRF token verified.
+INFO - 2024-12-28 07:29:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-28 07:29:49 --> CSRF token verified.
