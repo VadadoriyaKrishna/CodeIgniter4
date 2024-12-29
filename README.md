@@ -58,3 +58,9 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 - json (enabled by default - don't turn it off)
 - [mysqlnd](http://php.net/manual/en/mysqlnd.install.php) if you plan to use MySQL
 - [libcurl](http://php.net/manual/en/curl.requirements.php) if you plan to use the HTTP\CURLRequest library
+
+Running the App
+Ready to test? You cannot run the app using PHP’s built-in server, since it will not properly process the .htaccess rules that are provided in public, and which eliminate the need to specify “index.php/” as part of a URL. CodeIgniter has its own command that you can use though.
+
+From the command line, at the root of your project:
+-php spark serve
